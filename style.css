@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color:plum;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 250px;
+    font-size: large;
+}
+
+button{
+    height:50px;
+    width:100px;
+    color:rgb(139, 18, 139);
+    background-color:white;
+}
